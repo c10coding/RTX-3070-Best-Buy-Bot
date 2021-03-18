@@ -9,7 +9,7 @@ import info
 # make sure this path is correct
 PATH = "C:\\Users\\caleb\\webdrivers\\chromedriver.exe"
 
-link = input("Enter your link here")
+link = input("Link: ")
 #XBOXONETEST = "https://www.bestbuy.com/site/microsoft-xbox-one-s-1tb-console-bundle-white/6415222.p?skuId=6415222"
 
 chrome_options = Options()
